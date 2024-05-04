@@ -1,0 +1,16 @@
+body{
+    
+}
+main {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+h1 {
+
+}
+p {
+  margin: 1rem;
+  padding: 1rem;  
+  background-color: red;
+}
