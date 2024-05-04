@@ -1,23 +1,23 @@
 header {
 
 }
-.links {
+.links a {
   display: flex;
   flex-direction: column;
   text-decoration: none;
 }
-h3 {
-
+h1 {
+  
 }
 body{
-    
+   background-color: tan; 
 }
 main {
   margin: 1rem;
   padding: 0;
   text-align: center;
 }
-h1 {
+h3 {
   display: block;
   text-align: center;
 }
