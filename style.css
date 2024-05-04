@@ -1,17 +1,24 @@
+header {
+
+}
+header a {
+
+}
+h3 {
+
+}
 body{
     
 }
 main {
-  border: 2px;
-  margin: 0;
-  padding: 0;
-  text-align: center;
+ 
 }
 h1 {
-  
+  display: block;
+  text-align: center;
 }
 p {
-  margin: 50%;
-  padding: 1rem;  
+  margin: 0;
+  padding: 0;
   background-color: red; 
 }
