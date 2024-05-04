@@ -3,10 +3,14 @@ header {
 }
 .links {
   display: flex;
+  margin: 1rem;
+  padding: 1rem;
   flex-direction: column;
   text-decoration: none;
 }
 h1 {
+  margin: 1rem;
+  padding: 1rem;
   background-color: crimson;
 }
 body{
