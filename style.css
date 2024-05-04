@@ -1,7 +1,8 @@
 header {
 
 }
-a {
+.links {
+  flex-direction: column;
   text-decoration: none;
 }
 h3 {
