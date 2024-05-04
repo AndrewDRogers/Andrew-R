@@ -11,6 +11,8 @@ header {
 h1 {
   margin: 1rem;
   padding: 1rem;
+  width: 200px;
+  height: 100px;
   background-color: crimson;
 }
 body{
